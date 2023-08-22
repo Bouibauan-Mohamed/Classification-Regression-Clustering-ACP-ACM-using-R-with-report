@@ -20,7 +20,19 @@ Throughout the project, various statistical tests, including p-values, are emplo
 Overall, this project demonstrates a holistic approach to data analysis and modeling using R, incorporating a wide range of statistical methods to extract meaningful information and draw actionable conclusions from the data.
 
 ## Résults:
-![33](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/319e7944-5d96-4ef9-a41b-ead93c175f52)
+![2](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/7b0c2c86-7016-498a-8e57-42b7af35e16f)
+
+
+![7](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/e036259f-6365-4bbe-b799-03eedb46df87)
+![33](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/e4fb510e-fb2e-459b-93c7-1468f2150a8a)
+![a1](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/c59e104c-47c3-404b-a246-a5d583ad94db)
+![a2](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/8342f25f-82ec-4a1a-84e4-99ebbfcc3367)
+![b1](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/bf64b579-b6da-4037-a206-77f599346f4a)
+![b2](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/e08490ec-05e6-49d9-959a-b63ae2bbbc61)
+
+![c1](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/f0e2ee27-1020-41ab-ada7-95c5790f6768)
+
+
 
 
 
