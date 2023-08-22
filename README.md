@@ -25,6 +25,8 @@ Overall, this project demonstrates a holistic approach to data analysis and mode
 
 ![7](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/e036259f-6365-4bbe-b799-03eedb46df87)
 ![33](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/e4fb510e-fb2e-459b-93c7-1468f2150a8a)
+![aber](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/0ab29e45-454b-49f6-acc1-35509f5faa5a)
+
 ![a1](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/c59e104c-47c3-404b-a246-a5d583ad94db)
 ![a2](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/8342f25f-82ec-4a1a-84e4-99ebbfcc3367)
 ![b1](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/bf64b579-b6da-4037-a206-77f599346f4a)
