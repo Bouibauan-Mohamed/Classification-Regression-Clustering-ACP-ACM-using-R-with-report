@@ -1,0 +1,2 @@
+# Classification-Regression-Clustering-ACP-ACM-using-R-with-report
+This project involves the application of various statistical and machine learning techniques using the R programming language.focus is on data analysis and exploration, including classification, regression, clustering ( K-means and hierarchical clustering), Principal Component Analysis (PCA), and Multiple Correspondence Analysis (MCA).
