@@ -20,7 +20,7 @@ Throughout the project, various statistical tests, including p-values, are emplo
 Overall, this project demonstrates a holistic approach to data analysis and modeling using R, incorporating a wide range of statistical methods to extract meaningful information and draw actionable conclusions from the data.
 
 ## Résults:
-![2](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/a7136db0-1888-4884-a62f-a9123decfefc)
+![33](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/319e7944-5d96-4ef9-a41b-ead93c175f52)
 
 
 
