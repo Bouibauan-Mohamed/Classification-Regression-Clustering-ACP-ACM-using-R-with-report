@@ -18,3 +18,10 @@ Multiple Correspondence Analysis (MCA): MCA is a multivariate statistical techni
 Throughout the project, various statistical tests, including p-values, are employed to assess the significance of findings and results. The project concludes with the generation of a comprehensive report that summarizes the methodologies used, the results obtained, and the interpretation of those results. This report will provide valuable insights into the dataset and the effectiveness of the applied statistical and machine learning techniques.
 
 Overall, this project demonstrates a holistic approach to data analysis and modeling using R, incorporating a wide range of statistical methods to extract meaningful information and draw actionable conclusions from the data.
+
+## Résults:
+![2](https://github.com/Bouibauan-Mohamed/Classification-Regression-Clustering-ACP-ACM-using-R-with-report/assets/102635115/a7136db0-1888-4884-a62f-a9123decfefc)
+
+
+
+
